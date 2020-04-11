@@ -23,8 +23,8 @@ futures = "0.3"
 pin-project = "0.4.8"
 
 [dependencies.prometheus]
-default-features = false
-git = "https://Adikteev/rust-prometheus.git"
+git = "https://github.com/Adikteev/rust-prometheus.git"
+
 
 [dev-dependencies]
 actix-rt = "1.1.0"
