@@ -24,7 +24,7 @@ pin-project = "0.4.8"
 
 [dependencies.prometheus]
 default-features = false
-version = "0.8.0"
+git = "https://Adikteev/rust-prometheus.git"
 
 [dev-dependencies]
 actix-rt = "1.1.0"
