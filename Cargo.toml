@@ -25,7 +25,7 @@ pin-project = "0.4.8"
 [dependencies.prometheus]
 default-features = false
 git = "https://github.com/Adikteev/rust-prometheus.git"
-rev = "0a18003e527543daff63697a0f45b813c50d04d1"
+rev = "fe2e06fe487df8e1a5b5715edd113b0c60a32ef2"
 
 
 [dev-dependencies]
